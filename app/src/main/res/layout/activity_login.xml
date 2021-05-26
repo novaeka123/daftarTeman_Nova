@@ -52,7 +52,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ice"
         tools:ignore="MissingContraints"
-        android:contentDescription="@string/app_name" />
+        android:contentDescription="@string/gambar" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
