@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356207798763",
+    "project_id": "daftteman",
+    "storage_bucket": "daftteman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356207798763:android:f379680ea8531802b291ae",
+        "android_client_info": {
+          "package_name": "com.example.daftarteman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356207798763-o22kbt99b0j3mrglgjkoh4k4578mrvnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqHN9-NKnQUvjdcsiq9FYRVqc6ofq2Ky4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356207798763-o22kbt99b0j3mrglgjkoh4k4578mrvnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
