@@ -51,7 +51,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ice"
-        tools:ignore="MissingContraints"/>
+        tools:ignore="MissingContraints"
+        android:contentDescription="@string/app_name" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
